@@ -5,7 +5,7 @@ A lightweight Blender addon for measuring and extracting the dip properties of u
 1. Download the latest 'compass_clino.py' file
 2. Save .py file within a specified directory on your system
 3. In Blender: Edit -> Preferences -> Install
-4. Navigate to compass_clino.py file -> select it -> Install Add-on
+4. Navigate to compass_clino.py file -> select it -> Install Add-on -> Check tick box
 5. A tab labelled 'Compass-Clino' should appear on the edge of the 3D viewport screen
 
 ## Usage
